@@ -1,5 +1,4 @@
-# final-project-qmdeng
-****Reddit Depression Symptom Prediction****
+# Reddit Depression Symptom Prediction with NLP Techniques
 
 ## Project Overview
 
